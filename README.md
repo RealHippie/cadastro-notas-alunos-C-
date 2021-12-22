@@ -1,4 +1,4 @@
-# Sistema para cadastrar notas de alunos no C#
+# Sistema para cadastrar notas de alunos em C#
 Um sistema básico onde é possível cadastrar alunos e notas, listar eles e calcular a média geral da turma. 
 
 ## Versão 1.0 
